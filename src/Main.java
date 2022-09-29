@@ -68,6 +68,7 @@ else
 
     if (age == 18)
         System.out.println("Тебе исполнилось 18. Поздравляем ты совершенно летний");
+
     else
         if (age <18)
             System.out.println("Ты пока не совершенно летний");
